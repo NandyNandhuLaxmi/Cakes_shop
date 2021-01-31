@@ -2,18 +2,18 @@
 
 ### Ragam Cakes Shop UI/UX Design Modal 
 
-- [ ] > #1 Splash Screen
-- [ ] > #2 Login Screen
-- [ ] > #3 Create Account Screen
-- [ ] > #4 Forgot Password Screen
-- [ ] > #5 Home Screen
-- [ ] > #6 Offers Screen
-- [ ] > #7 Profile Screen
-- [ ] > #8 Filter Screen
-- [ ] > #9 My Order Screen
-- [ ] > #10 Checkout Screen **successfully expanded popup**
-- [ ] > #11 Track Order Screen
-- [ ] > #12 Chat Screen
+- `Splash Screen`
+- `Login Screen`
+- `Create Account Screen`
+- `Forgot Password Screen`
+- `Home Screen`
+- `Offers Screen`
+- `Profile Screen`
+- `Filter Screen`
+- `My Order Screen`
+- `Checkout Screen` **successfully expanded popup**
+- `Track Order Screen`
+- `Chat Screen`
 
 ![Ragamcakes_UI #1](https://user-images.githubusercontent.com/70564915/106375124-7fd4a100-63af-11eb-8c6b-59663de3d80a.jpg)
 
