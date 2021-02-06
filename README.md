@@ -1,6 +1,6 @@
-# ragamcake_ui2
+# Cake Shop
 
-### Ragam Cakes Shop UI/UX Design Modal 
+### Cake Shop UI/UX Design Modal 
 
 - `Splash Screen`
 - `Login Screen`
